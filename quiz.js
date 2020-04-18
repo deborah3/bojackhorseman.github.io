@@ -139,7 +139,7 @@ const myQuestions = [
     correctAnswer: "b"
   },
   {
-    question: "What does Mayor WoodChuck challenge Mr.Peanutbutter too?",
+    question: "What does Mayor WoodChuck challenge Mr.Peanutbutter to?",
     answers: {
       a: "A race to save the city from spaghetti",
       b: "The best drought plan",
@@ -484,10 +484,10 @@ const mediumQuestions = [
   {
     question: "What alcohol commercial does Todd star in?",
     answers: {
-      a: "apple",
-      b: "rasp",
-      c: "blue",
-      d: "pineapple"
+      a: "Brandy",
+      b: "Bourbon",
+      c: "Whisky",
+      d: "Rum"
     },
     correctAnswer: "b"
   },
@@ -529,7 +529,7 @@ const mediumQuestions = [
       c: "To promote her movie",
       d: "To help Todd figure out his aesexual journey"
     },
-    correctAnswer: "d"
+    correctAnswer: "a"
   },
   {
     question: "In the 'bad things Bojack did' whiteboard, Todd adds all these except:",
@@ -952,7 +952,7 @@ const hardQuestions = [
       c: "Diane",
       d: "Princess Carolyn"
     },
-    correctAnswer: "d"
+    correctAnswer: "c"
   },
   {
     question: "What did Todd NOT suggest for the Mr.PB + Diane movie?",
